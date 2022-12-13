@@ -23,7 +23,7 @@ No-Sql
 Gcp
 
 
-Algo sobre mi
+# Algo sobre mi
 
 🔭Actualmente estoy termine mi proyecto final (Grupal) del Henry Bootcamp 
 
