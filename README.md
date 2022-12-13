@@ -1,6 +1,6 @@
-## Hola 👋
+# Hola 👋
 
-Me llamo Federico Goyechea
+## Me llamo Federico Goyechea
 
 Data Scientist
 
