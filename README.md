@@ -25,7 +25,7 @@ Gcp
 
 Algo sobre mi
 
-🔭Actualmente estoy trabajando en mi proyecto final del Henry Bootcamp
+🔭Actualmente estoy termine mi proyecto final (Grupal) del Henry Bootcamp 
 
 🌱Actualmente estoy aprendiendo GCP
 
