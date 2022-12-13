@@ -2,7 +2,7 @@
 
 ## Me llamo Federico Goyechea
 
-Data Scientist
+### Data Scientist
 
 Idiomas y herramientas:
 
